@@ -68,3 +68,8 @@ artifacts/
 *.cache
 *.bak
 *.tmp
+
+
+**/.vs/
+**/bin/
+**/obj/
