@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D51AC42C-F9E7-4F8C-BD9E-74A0143C92F7}|src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.worker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D51AC42C-F9E7-4F8C-BD9E-74A0143C92F7}|src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj|solutionrelative:src\\antifraudservice.worker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51AC42C-F9E7-4F8C-BD9E-74A0143C92F7}|src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51AC42C-F9E7-4F8C-BD9E-74A0143C92F7}|src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj|solutionrelative:src\\antifraudservice.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51AC42C-F9E7-4F8C-BD9E-74A0143C92F7}|src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.worker\\antifraudservice.worker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D51AC42C-F9E7-4F8C-BD9E-74A0143C92F7}|src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj|solutionrelative:src\\antifraudservice.worker\\antifraudservice.worker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE47B50-62A9-4338-81C0-5584A77407BD}|src\\AntiFraudService.Application\\AntiFraudService.Application.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.application\\events\\transactioncreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE47B50-62A9-4338-81C0-5584A77407BD}|src\\AntiFraudService.Application\\AntiFraudService.Application.csproj|solutionrelative:src\\antifraudservice.application\\events\\transactioncreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE47B50-62A9-4338-81C0-5584A77407BD}|src\\AntiFraudService.Application\\AntiFraudService.Application.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.application\\antifraudservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BE47B50-62A9-4338-81C0-5584A77407BD}|src\\AntiFraudService.Application\\AntiFraudService.Application.csproj|solutionrelative:src\\antifraudservice.application\\antifraudservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3AEE3-F596-47C4-A00B-05BD5F2AD012}|src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.domain\\antifraudservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DC3AEE3-F596-47C4-A00B-05BD5F2AD012}|src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj|solutionrelative:src\\antifraudservice.domain\\antifraudservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51AC42C-F9E7-4F8C-BD9E-74A0143C92F7}|src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.worker\\antifraudworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51AC42C-F9E7-4F8C-BD9E-74A0143C92F7}|src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj|solutionrelative:src\\antifraudservice.worker\\antifraudworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51AC42C-F9E7-4F8C-BD9E-74A0143C92F7}|src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.worker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D51AC42C-F9E7-4F8C-BD9E-74A0143C92F7}|src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj|solutionrelative:src\\antifraudservice.worker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106FE44D-5F1D-4DA8-98B1-CF4DDFF674F8}|src\\AntiFraudService.Infrastructure\\AntiFraudService.Infrastructure.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.infrastructure\\antifraudservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{106FE44D-5F1D-4DA8-98B1-CF4DDFF674F8}|src\\AntiFraudService.Infrastructure\\AntiFraudService.Infrastructure.csproj|solutionrelative:src\\antifraudservice.infrastructure\\antifraudservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106FE44D-5F1D-4DA8-98B1-CF4DDFF674F8}|src\\AntiFraudService.Infrastructure\\AntiFraudService.Infrastructure.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.infrastructure\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106FE44D-5F1D-4DA8-98B1-CF4DDFF674F8}|src\\AntiFraudService.Infrastructure\\AntiFraudService.Infrastructure.csproj|solutionrelative:src\\antifraudservice.infrastructure\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE47B50-62A9-4338-81C0-5584A77407BD}|src\\AntiFraudService.Application\\AntiFraudService.Application.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.application\\services\\antifraudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE47B50-62A9-4338-81C0-5584A77407BD}|src\\AntiFraudService.Application\\AntiFraudService.Application.csproj|solutionrelative:src\\antifraudservice.application\\services\\antifraudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3AEE3-F596-47C4-A00B-05BD5F2AD012}|src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.domain\\services\\antifraudevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC3AEE3-F596-47C4-A00B-05BD5F2AD012}|src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj|solutionrelative:src\\antifraudservice.domain\\services\\antifraudevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3AEE3-F596-47C4-A00B-05BD5F2AD012}|src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.domain\\models\\transactionevaluationinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC3AEE3-F596-47C4-A00B-05BD5F2AD012}|src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj|solutionrelative:src\\antifraudservice.domain\\models\\transactionevaluationinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3AEE3-F596-47C4-A00B-05BD5F2AD012}|src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.domain\\interfaces\\iantifraudevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC3AEE3-F596-47C4-A00B-05BD5F2AD012}|src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj|solutionrelative:src\\antifraudservice.domain\\interfaces\\iantifraudevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC3AEE3-F596-47C4-A00B-05BD5F2AD012}|src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.domain\\enums\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC3AEE3-F596-47C4-A00B-05BD5F2AD012}|src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj|solutionrelative:src\\antifraudservice.domain\\enums\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE47B50-62A9-4338-81C0-5584A77407BD}|src\\AntiFraudService.Application\\AntiFraudService.Application.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.application\\interfaces\\iantifraudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE47B50-62A9-4338-81C0-5584A77407BD}|src\\AntiFraudService.Application\\AntiFraudService.Application.csproj|solutionrelative:src\\antifraudservice.application\\interfaces\\iantifraudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE47B50-62A9-4338-81C0-5584A77407BD}|src\\AntiFraudService.Application\\AntiFraudService.Application.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.application\\events\\transactionvalidatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE47B50-62A9-4338-81C0-5584A77407BD}|src\\AntiFraudService.Application\\AntiFraudService.Application.csproj|solutionrelative:src\\antifraudservice.application\\events\\transactionvalidatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE47B50-62A9-4338-81C0-5584A77407BD}|src\\AntiFraudService.Application\\AntiFraudService.Application.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\src\\antifraudservice.application\\events\\transactionstatuschangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE47B50-62A9-4338-81C0-5584A77407BD}|src\\AntiFraudService.Application\\AntiFraudService.Application.csproj|solutionrelative:src\\antifraudservice.application\\events\\transactionstatuschangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E66B07-6EB7-4067-9D13-EF05F78C602D}|tests\\AntiFraudService.UnitTests\\AntiFraudService.UnitTests.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\tests\\antifraudservice.unittests\\antifraudevaluatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E66B07-6EB7-4067-9D13-EF05F78C602D}|tests\\AntiFraudService.UnitTests\\AntiFraudService.UnitTests.csproj|solutionrelative:tests\\antifraudservice.unittests\\antifraudevaluatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E66B07-6EB7-4067-9D13-EF05F78C602D}|tests\\AntiFraudService.UnitTests\\AntiFraudService.UnitTests.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\antifraudservice\\tests\\antifraudservice.unittests\\antifraudservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E66B07-6EB7-4067-9D13-EF05F78C602D}|tests\\AntiFraudService.UnitTests\\AntiFraudService.UnitTests.csproj|solutionrelative:tests\\antifraudservice.unittests\\antifraudservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Application\\Events\\TransactionCreatedEvent.cs",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Application\\Events\\TransactionCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Application\\Events\\TransactionCreatedEvent.cs",
+              "RelativeToolTip": "src\\AntiFraudService.Application\\Events\\TransactionCreatedEvent.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:17:39.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Worker\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Worker\\appsettings.json",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Worker\\appsettings.json",
+              "RelativeToolTip": "src\\AntiFraudService.Worker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T20:28:39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AntiFraudService.Worker.csproj",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj",
+              "RelativeToolTip": "src\\AntiFraudService.Worker\\AntiFraudService.Worker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T05:36:10.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Worker\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Worker\\Program.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Worker\\Program.cs",
+              "RelativeToolTip": "src\\AntiFraudService.Worker\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:20:59.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AntiFraudService.Application",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Application\\AntiFraudService.Application.csproj",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Application\\AntiFraudService.Application.csproj",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Application\\AntiFraudService.Application.csproj",
+              "RelativeToolTip": "src\\AntiFraudService.Application\\AntiFraudService.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T14:33:10.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AntiFraudService.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj",
+              "RelativeToolTip": "src\\AntiFraudService.Domain\\AntiFraudService.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T05:13:21.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AntiFraudWorker.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Worker\\AntiFraudWorker.cs",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Worker\\AntiFraudWorker.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Worker\\AntiFraudWorker.cs",
+              "RelativeToolTip": "src\\AntiFraudService.Worker\\AntiFraudWorker.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:23:22.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Worker\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Worker\\Dockerfile",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Worker\\Dockerfile",
+              "RelativeToolTip": "src\\AntiFraudService.Worker\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T19:04:18.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "RelativeToolTip": "src\\AntiFraudService.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:54:38.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AntiFraudService.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Application\\Services\\AntiFraudService.cs",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Application\\Services\\AntiFraudService.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Application\\Services\\AntiFraudService.cs",
+              "RelativeToolTip": "src\\AntiFraudService.Application\\Services\\AntiFraudService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:31:25.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AntiFraudService.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Infrastructure\\AntiFraudService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Infrastructure\\AntiFraudService.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Infrastructure\\AntiFraudService.Infrastructure.csproj",
+              "RelativeToolTip": "src\\AntiFraudService.Infrastructure\\AntiFraudService.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T13:16:46.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AntiFraudEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Domain\\Services\\AntiFraudEvaluator.cs",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Domain\\Services\\AntiFraudEvaluator.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Domain\\Services\\AntiFraudEvaluator.cs",
+              "RelativeToolTip": "src\\AntiFraudService.Domain\\Services\\AntiFraudEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:06:11.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionEvaluationInput.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Domain\\Models\\TransactionEvaluationInput.cs",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Domain\\Models\\TransactionEvaluationInput.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Domain\\Models\\TransactionEvaluationInput.cs",
+              "RelativeToolTip": "src\\AntiFraudService.Domain\\Models\\TransactionEvaluationInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:48:33.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAntiFraudEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Domain\\Interfaces\\IAntiFraudEvaluator.cs",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Domain\\Interfaces\\IAntiFraudEvaluator.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Domain\\Interfaces\\IAntiFraudEvaluator.cs",
+              "RelativeToolTip": "src\\AntiFraudService.Domain\\Interfaces\\IAntiFraudEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:49:35.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransactionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Domain\\Enums\\TransactionStatus.cs",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Domain\\Enums\\TransactionStatus.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Domain\\Enums\\TransactionStatus.cs",
+              "RelativeToolTip": "src\\AntiFraudService.Domain\\Enums\\TransactionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:28:14.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAntiFraudService.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Application\\Interfaces\\IAntiFraudService.cs",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Application\\Interfaces\\IAntiFraudService.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Application\\Interfaces\\IAntiFraudService.cs",
+              "RelativeToolTip": "src\\AntiFraudService.Application\\Interfaces\\IAntiFraudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:34:51.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransactionValidatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Application\\Events\\TransactionValidatedEvent.cs",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Application\\Events\\TransactionValidatedEvent.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Application\\Events\\TransactionValidatedEvent.cs",
+              "RelativeToolTip": "src\\AntiFraudService.Application\\Events\\TransactionValidatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:03:20.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionStatusChangedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Application\\Events\\TransactionStatusChangedEvent.cs",
+              "RelativeDocumentMoniker": "src\\AntiFraudService.Application\\Events\\TransactionStatusChangedEvent.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\src\\AntiFraudService.Application\\Events\\TransactionStatusChangedEvent.cs",
+              "RelativeToolTip": "src\\AntiFraudService.Application\\Events\\TransactionStatusChangedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:12:28.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AntiFraudEvaluatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\tests\\AntiFraudService.UnitTests\\AntiFraudEvaluatorTests.cs",
+              "RelativeDocumentMoniker": "tests\\AntiFraudService.UnitTests\\AntiFraudEvaluatorTests.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\tests\\AntiFraudService.UnitTests\\AntiFraudEvaluatorTests.cs",
+              "RelativeToolTip": "tests\\AntiFraudService.UnitTests\\AntiFraudEvaluatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:49:06.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AntiFraudServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\tests\\AntiFraudService.UnitTests\\AntiFraudServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\AntiFraudService.UnitTests\\AntiFraudServiceTests.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\AntiFraudService\\tests\\AntiFraudService.UnitTests\\AntiFraudServiceTests.cs",
+              "RelativeToolTip": "tests\\AntiFraudService.UnitTests\\AntiFraudServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:50:42.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|solutionrelative:src\\transactionservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|solutionrelative:src\\transactionservice.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.webapi\\transactionservice.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|solutionrelative:src\\transactionservice.webapi\\transactionservice.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|solutionrelative:src\\transactionservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.webapi\\transactionservice.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|solutionrelative:src\\transactionservice.webapi\\transactionservice.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.webapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|solutionrelative:src\\transactionservice.webapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13956A44-8A33-4B34-81E2-D23287A547D5}|src\\TransactionService.Application\\TransactionService.Application.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13956A44-8A33-4B34-81E2-D23287A547D5}|src\\TransactionService.Application\\TransactionService.Application.csproj|solutionrelative:src\\transactionservice.application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD58326-F223-4206-B62E-54E9699B3355}|src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.infrastructure\\transactionservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FD58326-F223-4206-B62E-54E9699B3355}|src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj|solutionrelative:src\\transactionservice.infrastructure\\transactionservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E4566-9656-4BF2-8A0B-33F4226A6176}|src\\TransactionService.Domain\\TransactionService.Domain.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E4566-9656-4BF2-8A0B-33F4226A6176}|src\\TransactionService.Domain\\TransactionService.Domain.csproj|solutionrelative:src\\transactionservice.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FB7C8E5F-B68B-4040-A1DE-ED9D35BCEDDC}|src\\TransactionService.WebApi\\TransactionService.WebApi.csproj|solutionrelative:src\\transactionservice.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E4566-9656-4BF2-8A0B-33F4226A6176}|src\\TransactionService.Domain\\TransactionService.Domain.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.domain\\transactionservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F2E4566-9656-4BF2-8A0B-33F4226A6176}|src\\TransactionService.Domain\\TransactionService.Domain.csproj|solutionrelative:src\\transactionservice.domain\\transactionservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD58326-F223-4206-B62E-54E9699B3355}|src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD58326-F223-4206-B62E-54E9699B3355}|src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj|solutionrelative:src\\transactionservice.infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD58326-F223-4206-B62E-54E9699B3355}|src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.infrastructure\\repositories\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD58326-F223-4206-B62E-54E9699B3355}|src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj|solutionrelative:src\\transactionservice.infrastructure\\repositories\\transactiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD58326-F223-4206-B62E-54E9699B3355}|src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.infrastructure\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD58326-F223-4206-B62E-54E9699B3355}|src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj|solutionrelative:src\\transactionservice.infrastructure\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD58326-F223-4206-B62E-54E9699B3355}|src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.infrastructure\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD58326-F223-4206-B62E-54E9699B3355}|src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj|solutionrelative:src\\transactionservice.infrastructure\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E4566-9656-4BF2-8A0B-33F4226A6176}|src\\TransactionService.Domain\\TransactionService.Domain.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.domain\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E4566-9656-4BF2-8A0B-33F4226A6176}|src\\TransactionService.Domain\\TransactionService.Domain.csproj|solutionrelative:src\\transactionservice.domain\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E4566-9656-4BF2-8A0B-33F4226A6176}|src\\TransactionService.Domain\\TransactionService.Domain.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.domain\\interfaces\\ikafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E4566-9656-4BF2-8A0B-33F4226A6176}|src\\TransactionService.Domain\\TransactionService.Domain.csproj|solutionrelative:src\\transactionservice.domain\\interfaces\\ikafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2E4566-9656-4BF2-8A0B-33F4226A6176}|src\\TransactionService.Domain\\TransactionService.Domain.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.domain\\enums\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2E4566-9656-4BF2-8A0B-33F4226A6176}|src\\TransactionService.Domain\\TransactionService.Domain.csproj|solutionrelative:src\\transactionservice.domain\\enums\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13956A44-8A33-4B34-81E2-D23287A547D5}|src\\TransactionService.Application\\TransactionService.Application.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.application\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13956A44-8A33-4B34-81E2-D23287A547D5}|src\\TransactionService.Application\\TransactionService.Application.csproj|solutionrelative:src\\transactionservice.application\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13956A44-8A33-4B34-81E2-D23287A547D5}|src\\TransactionService.Application\\TransactionService.Application.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.application\\events\\transactionvalidatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13956A44-8A33-4B34-81E2-D23287A547D5}|src\\TransactionService.Application\\TransactionService.Application.csproj|solutionrelative:src\\transactionservice.application\\events\\transactionvalidatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13956A44-8A33-4B34-81E2-D23287A547D5}|src\\TransactionService.Application\\TransactionService.Application.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\src\\transactionservice.application\\events\\transactioncreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13956A44-8A33-4B34-81E2-D23287A547D5}|src\\TransactionService.Application\\TransactionService.Application.csproj|solutionrelative:src\\transactionservice.application\\events\\transactioncreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611BB4CC-2A4C-457E-9364-B330D3D18902}|tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\tests\\transactionservice.unittests\\transactionservice.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{611BB4CC-2A4C-457E-9364-B330D3D18902}|tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj|solutionrelative:tests\\transactionservice.unittests\\transactionservice.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611BB4CC-2A4C-457E-9364-B330D3D18902}|tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\tests\\transactionservice.unittests\\controllers\\transactioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611BB4CC-2A4C-457E-9364-B330D3D18902}|tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj|solutionrelative:tests\\transactionservice.unittests\\controllers\\transactioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611BB4CC-2A4C-457E-9364-B330D3D18902}|tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\tests\\transactionservice.unittests\\application\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611BB4CC-2A4C-457E-9364-B330D3D18902}|tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj|solutionrelative:tests\\transactionservice.unittests\\application\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611BB4CC-2A4C-457E-9364-B330D3D18902}|tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\tests\\transactionservice.unittests\\infrastructure\\transactionrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{611BB4CC-2A4C-457E-9364-B330D3D18902}|tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj|solutionrelative:tests\\transactionservice.unittests\\infrastructure\\transactionrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611BB4CC-2A4C-457E-9364-B330D3D18902}|tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj|c:\\users\\jc.contreras\\documents\\bcp\\anti-fraud-challenge\\services\\transactionservice\\tests\\transactionservice.unittests\\transactionservice.unittests.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{611BB4CC-2A4C-457E-9364-B330D3D18902}|tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj|solutionrelative:tests\\transactionservice.unittests\\transactionservice.unittests.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\TransactionService.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\TransactionService.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T22:53:04.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\TransactionService.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:43:55.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Application\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.Application\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Application\\Services\\TransactionService.cs",
+              "RelativeToolTip": "src\\TransactionService.Application\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:50:42.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\TransactionService.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\TransactionService.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T16:12:35.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionService.WebApi",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\TransactionService.WebApi.csproj",
+              "RelativeDocumentMoniker": "src\\TransactionService.WebApi\\TransactionService.WebApi.csproj",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\TransactionService.WebApi.csproj",
+              "RelativeToolTip": "src\\TransactionService.WebApi\\TransactionService.WebApi.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T16:12:31.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionService.WebApi.http",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\TransactionService.WebApi.http",
+              "RelativeDocumentMoniker": "src\\TransactionService.WebApi\\TransactionService.WebApi.http",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\TransactionService.WebApi.http",
+              "RelativeToolTip": "src\\TransactionService.WebApi\\TransactionService.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-15T03:26:37.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionService.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj",
+              "RelativeToolTip": "src\\TransactionService.Infrastructure\\TransactionService.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T13:29:28.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.WebApi\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "src\\TransactionService.WebApi\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:09:15.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "src\\TransactionService.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:47:13.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\TransactionService.WebApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.WebApi\\Dockerfile",
+              "RelativeToolTip": "src\\TransactionService.WebApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T19:07:24.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Infrastructure\\Repositories\\TransactionDbContext.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.Infrastructure\\Repositories\\TransactionDbContext.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Infrastructure\\Repositories\\TransactionDbContext.cs",
+              "RelativeToolTip": "src\\TransactionService.Infrastructure\\Repositories\\TransactionDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:02:01.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Infrastructure\\Kafka\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.Infrastructure\\Kafka\\KafkaProducer.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Infrastructure\\Kafka\\KafkaProducer.cs",
+              "RelativeToolTip": "src\\TransactionService.Infrastructure\\Kafka\\KafkaProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:49:06.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Infrastructure\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "src\\TransactionService.Infrastructure\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:49:24.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionService.Domain",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Domain\\TransactionService.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\TransactionService.Domain\\TransactionService.Domain.csproj",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Domain\\TransactionService.Domain.csproj",
+              "RelativeToolTip": "src\\TransactionService.Domain\\TransactionService.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T17:58:25.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "RelativeToolTip": "src\\TransactionService.Infrastructure\\Kafka\\KafkaConsumer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:52:02.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Domain\\Interfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.Domain\\Interfaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Domain\\Interfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "src\\TransactionService.Domain\\Interfaces\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:47:20.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IKafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Domain\\Interfaces\\IKafkaProducer.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.Domain\\Interfaces\\IKafkaProducer.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Domain\\Interfaces\\IKafkaProducer.cs",
+              "RelativeToolTip": "src\\TransactionService.Domain\\Interfaces\\IKafkaProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:57:40.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Domain\\Enums\\TransactionStatus.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.Domain\\Enums\\TransactionStatus.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Domain\\Enums\\TransactionStatus.cs",
+              "RelativeToolTip": "src\\TransactionService.Domain\\Enums\\TransactionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:47:18.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Application\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.Application\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Application\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "src\\TransactionService.Application\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:50:14.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransactionValidatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Application\\Events\\TransactionValidatedEvent.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.Application\\Events\\TransactionValidatedEvent.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Application\\Events\\TransactionValidatedEvent.cs",
+              "RelativeToolTip": "src\\TransactionService.Application\\Events\\TransactionValidatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:51:18.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransactionCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Application\\Events\\TransactionCreatedEvent.cs",
+              "RelativeDocumentMoniker": "src\\TransactionService.Application\\Events\\TransactionCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\src\\TransactionService.Application\\Events\\TransactionCreatedEvent.cs",
+              "RelativeToolTip": "src\\TransactionService.Application\\Events\\TransactionCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:06:11.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TransactionService.UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj",
+              "RelativeDocumentMoniker": "tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj",
+              "RelativeToolTip": "tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T03:21:01.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransactionControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\tests\\TransactionService.UnitTests\\Controllers\\TransactionControllerTests.cs",
+              "RelativeDocumentMoniker": "tests\\TransactionService.UnitTests\\Controllers\\TransactionControllerTests.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\tests\\TransactionService.UnitTests\\Controllers\\TransactionControllerTests.cs",
+              "RelativeToolTip": "tests\\TransactionService.UnitTests\\Controllers\\TransactionControllerTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:06:28.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TransactionServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\tests\\TransactionService.UnitTests\\Application\\TransactionServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\TransactionService.UnitTests\\Application\\TransactionServiceTests.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\tests\\TransactionService.UnitTests\\Application\\TransactionServiceTests.cs",
+              "RelativeToolTip": "tests\\TransactionService.UnitTests\\Application\\TransactionServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:11:57.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TransactionRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\tests\\TransactionService.UnitTests\\Infrastructure\\TransactionRepositoryTests.cs",
+              "RelativeDocumentMoniker": "tests\\TransactionService.UnitTests\\Infrastructure\\TransactionRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\tests\\TransactionService.UnitTests\\Infrastructure\\TransactionRepositoryTests.cs",
+              "RelativeToolTip": "tests\\TransactionService.UnitTests\\Infrastructure\\TransactionRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:12:39.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TransactionService.UnitTests.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\jc.contreras\\Documents\\bcp\\anti-fraud-challenge\\services\\TransactionService\\tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj.Backup.tmp",
+              "RelativeToolTip": "tests\\TransactionService.UnitTests\\TransactionService.UnitTests.csproj.Backup.tmp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T17:38:07.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
