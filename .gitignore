@@ -52,3 +52,17 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# Others
+*.log
+*.db
+*.DS_Store
